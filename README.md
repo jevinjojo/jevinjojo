@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jevin Jojo</h1>
+<h1 align="center">Hi 👋, I'm Jevin Jojo </h1>
 <h3 align="center">
   👀 I’m working on  <span style="font-weight: bold; color: #e63946;">Block Chain Projects and love to contribute to open source projects</span>
 </h3>

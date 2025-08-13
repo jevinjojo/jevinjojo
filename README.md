@@ -9,7 +9,7 @@
   <li> 💞️ I’m looking to collaborate on <strong>open source projects</strong></li>
 </ul>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: </h3>
 <p align="center">
   jevinjojo1@gmail.com
 </p>

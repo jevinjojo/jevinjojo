@@ -2,7 +2,7 @@
 <h3 align="center">
   👀 I’m working on  <span style="font-weight: bold; color: #e63946;">Block Chain Projects and love to contribute to open source projects</span>
 </h3>
-
+ 
 
 <ul align="center">
   <li>🌱 I’m currently learning <strong>Full Stack Development, TypeScript and Block Chain Development </strong></li>

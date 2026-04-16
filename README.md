@@ -22,8 +22,10 @@
 </p>
 <h3 align="center">Web3 & Blockchain:</h3>
 
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="48" height="48" alt="Bitcoin" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" width="48" height="48" alt="Ethereum" /> <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="48" height="48" alt="Bitcoin" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" width="48" height="48" alt="Ethereum" /></td>
+    <td><img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" /></td>
+  </tr>
+</table>

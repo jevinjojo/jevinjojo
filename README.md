@@ -20,12 +20,13 @@
     <img src="https://skillicons.dev/icons?i=cpp,css,js,go,ts,py,react,nextjs,docker,nodejs,linux,git,mongodb,rust&perline=15" alt="Tech Stack" />
   </a>
 </p>
+
 <h3 align="center">Web3 & Blockchain:</h3>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="48" height="48" alt="Bitcoin" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" width="48" height="48" alt="Ethereum" /></td>
-    <td><img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="42" height="42" alt="Bitcoin" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" width="42" height="42" alt="Ethereum" /></td>
+    <td><img src="https://skillicons.dev/icons?i=solidity" width="42" height="42" alt="Solidity" /></td>
   </tr>
 </table>

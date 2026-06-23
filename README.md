@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 🌱 Currently going deep on
@@ -28,7 +26,6 @@ EVM Internals · Protocol Engineering · L2 & Cross-Chain · DeFi · Web3 Backen
 
 </div>
 
----
 
 <div align="center">
 

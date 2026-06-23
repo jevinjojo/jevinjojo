@@ -12,9 +12,9 @@ Building on Ethereum and contributing to open source — focused on protocol eng
 
 ## 🛠 Stack
 
-**Protocol:** Solidity · Foundry · The Graph <br/>
-**Systems:** Rust · Go · Linux <br/>
-**Infra:** Docker · Kubernetes · GitHub Actions
+**🔭 Protocol:** Solidity · Foundry · The Graph <br/>
+**⚙️ Systems:** Rust · Go · Linux <br/>
+**☁️ Infra:** Docker · Kubernetes · GitHub Actions
 
 ---
 

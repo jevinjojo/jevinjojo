@@ -21,3 +21,8 @@ Building on Ethereum and contributing to open source — focused on protocol eng
 ## 💞️ Open Source
 
 Contributing across the Ethereum stack — protocols, clients, and developer tooling.
+
+---
+
+<h3> 📫 Connect with me: </h3> 
+<p>jevinjojo1@gmail.com</p>

@@ -8,7 +8,6 @@ Building on Ethereum and contributing to open source — focused on protocol eng
 
 `EVM Internals` · `Protocol Engineering` · `L2 & Cross-Chain` · `DeFi` · `Web3 Backend`
 
----
 
 ## 🛠 Stack
 
@@ -16,7 +15,6 @@ Building on Ethereum and contributing to open source — focused on protocol eng
 **⚙️ Systems:** Rust · Go · Linux <br/>
 **☁️ Infra:** Docker · Kubernetes · GitHub Actions
 
----
 
 ## 💞️ Open Source
 
